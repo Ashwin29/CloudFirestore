@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firestore</string>
+    <string name="Flavour">Flavour</string>
+    <string name="Collections">Ingrediant-1</string>
+    <string name="Store">Store</string>
+    <string name="Ingrediant2">Ingrediant-2</string>
+    <string name="Ingrediant3">Ingrediant-3</string>
+</resources>
